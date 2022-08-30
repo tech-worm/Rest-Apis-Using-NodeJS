@@ -1,2 +1,2 @@
-# Rest-Apis-Using-NodeJS
-Rest API's Using Node Js and Express
+# rest-apis-using-node
+Building rest-apis using node and express.
